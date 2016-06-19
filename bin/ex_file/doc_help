@@ -1,0 +1,10 @@
+--------------------
+** Z_Shell Manual ** 
+--------------------
+                 命令指南
+ ls 查看当前目录下的所有文件
+ cd <path> 进入当前目录下的path相对路径 或进入系统下的path绝对路径
+ cd..	回退到父目录下
+ cat <file_name> 查看命令 显示"文本信息
+ exit 退出Z_Shell
+ version Z_Shell 版本信息

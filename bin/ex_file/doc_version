@@ -1,0 +1,12 @@
+---------------------
+** Z_Shell Version ** 
+---------------------
+  version: v 1.0
+  date   : 16/06/19
+  author : YueNing Zhao
+  e_mail : zhaozhaozhao1996@163.com
+----------------------
+此次指令集
+ls、cd、cd..、cat、exit、version、--help & -h
+后续将添加指令
+mkdir copy cut rm  
