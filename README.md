@@ -1,5 +1,5 @@
-# Z_Shell
-一个基于java编写的仿shell
+﻿# Z_Shell
+一个基于java编写的模拟shell
 ##说明文档 
  Z_Shell Manual 
                  命令指南
