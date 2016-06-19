@@ -24,3 +24,17 @@
   
   后续将添加指令
     mkdir copy cut rm  
+ 
+## 演示
+### 使用java -jar 运行 根目录下的run.jar包
+![image](https://github.com/ZhaoYueNing/Z_Shell/blob/master/demo_pic/run.png)
+### ls命令
+![image](https://github.com/ZhaoYueNing/Z_Shell/blob/master/demo_pic/ls.png)
+### cd命令
+![image](https://github.com/ZhaoYueNing/Z_Shell/blob/master/demo_pic/cd.png)
+### cat命令
+![image](https://github.com/ZhaoYueNing/Z_Shell/blob/master/demo_pic/cat.png)
+### 使用帮助查看说明
+![image](https://github.com/ZhaoYueNing/Z_Shell/blob/master/demo_pic/help.png)
+
+
