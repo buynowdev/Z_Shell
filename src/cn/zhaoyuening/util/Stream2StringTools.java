@@ -13,6 +13,6 @@ public class Stream2StringTools {
 			baos.write(buffer, 0, len);
 		}
 		
-		return baos.toString();
+		return baos.toString("utf-8");
 	}
 }
